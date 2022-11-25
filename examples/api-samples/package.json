@@ -6,7 +6,7 @@
   "dependencies": {
     "@theia/core": "1.31.0",
     "@theia/file-search": "1.31.0",
-    "@theia/filesystem": "1.31.0",
+    "@theia/filesystem": "1.31.1",
     "@theia/monaco": "1.31.0",
     "@theia/monaco-editor-core": "1.72.3",
     "@theia/output": "1.31.0",
