@@ -46,7 +46,7 @@
     "glob": "^8.0.3",
     "log-update": "^4.0.0",
     "mocha": "^10.1.0",
-    "puppeteer": "^2.0.0",
+    "puppeteer": "^3.0.0",
     "puppeteer-to-istanbul": "^1.2.2",
     "temp": "^0.9.1",
     "yargs": "^15.3.1"
