@@ -36,7 +36,7 @@
     "deepmerge": "^4.2.2",
     "fs-extra": "^4.0.2",
     "is-electron": "^2.1.0",
-    "nano": "^9.0.5",
+    "nano": "^10.1.0",
     "request": "^2.82.0",
     "resolve-package-path": "^4.0.3",
     "semver": "^5.4.1",
