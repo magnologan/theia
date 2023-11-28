@@ -33,7 +33,7 @@
     "@babel/plugin-transform-classes": "^7.10.0",
     "@babel/plugin-transform-runtime": "^7.10.0",
     "@babel/preset-env": "^7.10.0",
-    "@theia/application-package": "1.31.0",
+    "@theia/application-package": "1.37.0",
     "@theia/ffmpeg": "1.31.0",
     "@types/fs-extra": "^4.0.2",
     "@types/semver": "^7.3.8",
