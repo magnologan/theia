@@ -3,8 +3,8 @@
   "version": "1.31.0",
   "description": "Theia - Call Hierarchy Extension",
   "dependencies": {
-    "@theia/core": "1.31.0",
-    "@theia/editor": "1.31.0",
+    "@theia/core": "1.37.0",
+    "@theia/editor": "1.37.0",
     "ts-md5": "^1.2.2"
   },
   "publishConfig": {
