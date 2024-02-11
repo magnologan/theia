@@ -7,7 +7,7 @@
     "@theia/metrics": "1.31.0",
     "@theia/monaco-editor-core": "1.72.3",
     "@theia/plugin": "1.31.0",
-    "@theia/plugin-ext": "1.31.0"
+    "@theia/plugin-ext": "1.39.0"
   },
   "publishConfig": {
     "access": "public"
