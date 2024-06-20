@@ -3,8 +3,8 @@
   "version": "1.31.0",
   "description": "Theia - Editor Extension",
   "dependencies": {
-    "@theia/core": "1.31.0",
-    "@theia/variable-resolver": "1.31.0"
+    "@theia/core": "1.31.1",
+    "@theia/variable-resolver": "1.31.1"
   },
   "publishConfig": {
     "access": "public"
