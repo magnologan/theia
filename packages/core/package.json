@@ -16,7 +16,7 @@
     "@phosphor/signaling": "1",
     "@phosphor/virtualdom": "1",
     "@phosphor/widgets": "1",
-    "@theia/application-package": "1.31.0",
+    "@theia/application-package": "1.37.0",
     "@theia/request": "1.31.0",
     "@types/body-parser": "^1.16.4",
     "@types/cookie": "^0.3.3",
