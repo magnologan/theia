@@ -4,7 +4,7 @@
   "version": "1.31.0",
   "description": "Theia - Example code to demonstrate Theia API",
   "dependencies": {
-    "@theia/core": "1.31.0",
+    "@theia/core": "1.31.1",
     "@theia/file-search": "1.31.0",
     "@theia/filesystem": "1.31.0",
     "@theia/monaco": "1.31.0",
