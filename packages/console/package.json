@@ -4,7 +4,7 @@
   "description": "Theia - Console Extension",
   "dependencies": {
     "@theia/core": "1.31.0",
-    "@theia/monaco": "1.31.0",
+    "@theia/monaco": "1.55.0",
     "@theia/monaco-editor-core": "1.72.3",
     "anser": "^2.0.1"
   },
