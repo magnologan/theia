@@ -6,7 +6,7 @@
     "@theia/core": "1.31.0",
     "@theia/monaco": "1.31.0",
     "@theia/monaco-editor-core": "1.72.3",
-    "@theia/preferences": "1.31.0",
+    "@theia/preferences": "1.55.0",
     "@theia/userstorage": "1.31.0",
     "jsonc-parser": "^2.2.0"
   },
